@@ -3,7 +3,7 @@
 ## Bug Summary
 
 For this lab, I submitted [this
-bug](https://www.freebsd.org/doc/en_US.ISO8859-1/books/handbook/nutshell.html)
+bug](https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=218069)
 to FreeBSD. It fixes two minor typos in the introductory section of the
 handbook. The actual diff of the chapter XML file can be found
 [here](docs/chapter.xml.diff).
